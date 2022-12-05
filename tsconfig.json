@@ -14,7 +14,9 @@
     "sourceMap": true,
     "baseUrl": ".",
     "types": [
-      "jest"
+      "node",
+      "jest",
+      "vite/client"
     ],
     "paths": {
       "@/*": [

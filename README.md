@@ -24,6 +24,12 @@ yarn build
 yarn preview
 ```
 
+### Check types
+
+```sh
+yarn check
+```
+
 ### Run your unit tests
 
 ```sh
