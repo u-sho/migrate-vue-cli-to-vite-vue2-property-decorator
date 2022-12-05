@@ -33,7 +33,6 @@ yarn check
 ### Run your unit tests
 
 ```sh
-# not working now
 yarn test:unit
 ```
 
