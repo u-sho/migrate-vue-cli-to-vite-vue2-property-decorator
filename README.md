@@ -21,8 +21,13 @@ yarn build
 ### Preview production build
 
 ```sh
-# npm install --global serve
-serve -s dist
+yarn preview
+```
+
+### Check types
+
+```sh
+yarn check
 ```
 
 ### Run your unit tests
@@ -34,6 +39,7 @@ yarn test:unit
 ### Run your end-to-end tests
 
 ```sh
+# not working now
 yarn test:e2e
 ```
 
@@ -45,4 +51,4 @@ yarn lint
 
 ### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://vitejs.dev/config/).
